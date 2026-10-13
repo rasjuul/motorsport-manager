@@ -1,6 +1,6 @@
 # Motorsport Manager
 
-I am building a Formula 1-inspired motorsport management game in C# with fictional teams and drivers. This is my personal learning project, which I plan to share with the Boot.dev community.
+I am building a Formula 1-inspired motorsport management game in C# with fictional teams and drivers. This is my personal learning project.
 
 I want to improve my understanding of C# by building a game with meaningful decisions and a manageable scope. I am still learning, so I will build it step by step and keep the code understandable.
 
