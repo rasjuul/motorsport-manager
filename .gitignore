@@ -1,0 +1,22 @@
+# Build output and IDE state
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local credentials and approvals
+.env
+.env.*
+*.local.json
+*.pfx
+*.p12
+*.key
+credentials/
+secrets/
+
+# Local saves and backup snapshots
+saves/
+backups/
+*.zip
